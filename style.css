@@ -1,0 +1,172 @@
+
+.main{
+    text-align: center;
+    background-color: royalblue;
+    width: 100%;
+    height: 8%;
+    padding-left:0px;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.img1,.img2,.img3,.img4,.img5{
+    height: 20px;
+    width: 25px;
+    cursor: pointer;
+    margin: 10px 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    
+    
+}
+.images{
+   max-width: 100%; 
+    
+}
+.txt{
+    color: white;
+    max-width:100%;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.but{
+    padding-top: 5px;
+    max-width: 100%;
+    min-width:30%;
+
+}
+.but1,.but2,.but3{
+    margin: 5px;
+    padding:5px;
+    font-size: 0.7em;
+    cursor: pointer;
+}
+.img6{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.but4 {
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: royalblue;
+    color: white;
+    margin-left: 300px; 
+    padding: 0px 15px;
+    margin-top: 5px;
+
+}
+.second{
+    background-color:whitesmoke;
+    height: 60px;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 100%;
+    min-width: 30%;
+}
+.imgbut{
+    color: white;
+    text-decoration: none;
+
+}
+.dropdown-item{
+    font-size: 0.8em;
+}
+.dropdown-item:hover{
+    color:white;
+    background-color: royalblue;
+    text-align: center;
+
+}
+.btn:hover{
+    background-color: royalblue;
+    color:white;
+} 
+
+
+.intro{
+    background-color: whitesmoke;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    width: 65%;
+    justify-content: center;
+    margin: auto;
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 2em;
+}
+.img7{
+    text-align: center;
+    margin-top: 10px;
+    width: 100%;
+    height: 500px;
+    margin-bottom: 20px;
+   
+}
+.strip{
+    text-align: center;
+    background-color: royalblue;
+    color: white;
+    width: 80%;
+    height: 20%;
+    padding:6px;
+    margin: auto;
+}
+
+h1{
+    color: royalblue;
+    margin-top: 10px;
+    padding-top: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size:30px;
+}
+span{
+    color: green;
+}
+.img8{
+    margin: 10px,auto;
+}
+.thickStrip{
+    height: 100%;
+    width: 100%;
+    background-color: royalblue;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.s1,.s2,.s3,.s4{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+    min-width: 10%;
+    max-width: 100%;
+    
+
+}
+h2{
+    color: royalblue;
+    margin-top: 10px;
+    padding-top: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size:40px;
+
+}
+.main2{
+    background-color: whitesmoke;
+
+}   
+
+
+ 
